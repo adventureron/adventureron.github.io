@@ -19,5 +19,5 @@
 18 02_08_2023_data.gpf
 //19 02_08_2023_system.rgz
 20 02_08_2023_system.rgz
-21 elurair.new
-22 elurair.new
+21 Atualizador Adventure.new
+22 Atualizador Adventure.new
