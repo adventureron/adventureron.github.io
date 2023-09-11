@@ -1,0 +1,21 @@
+// exemple - init 1
+1 16_04_2023_iteminfo.rgz
+2 27_04_2023_iteminfo.rgz
+3 27_04_2023_iteminfo_2.rgz
+4 27_04_2023_iteminfo_3.rgz
+5 27_04_2023_iteminfo_4.rgz
+6 29_04_2023_data.gpf
+// 7 29_04_2023_system.rgz
+8 29_04_2023_system_1.rgz
+9 06_05_2023_system.rgz
+10 12_05_2023_s_exe.rgz
+11 14_05_2023_system.rgz
+12 24_05_2023_system.rgz
+13 24_05_2023_data.gpf
+14 25_05_2023_system.rgz
+15 01_06_2023_data.gpf
+16 23_06_2023_system.rgz
+17 23_06_2023_data.gpf
+18 02_08_2023_data.gpf
+//19 02_08_2023_system.rgz
+20 02_08_2023_system.rgz
